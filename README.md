@@ -8,3 +8,7 @@ Welcome to my GitHub profile!
 - 🎵 Fun fact: I can never give you up or let you down!
 
 Feel free to explore my repositories and get ready to be Rickrolled! 😄
+
+Let's connect on social media:
+
+[![Instagram Follow](https://img.shields.io/badge/-Follow-E4405F?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/rick_rolling_u/)](https://www.instagram.com/rick_rolling_u/)
